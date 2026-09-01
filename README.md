@@ -1,14 +1,55 @@
+```markdown
+<div align="center">
+
 # 🚀 Enterprise GRC & Risk Management Program
 
-<p align="center">
+### **Learn Governance, Risk & Compliance by Building a Real Enterprise Security Program**
 
-**🎯 Learn Governance • Risk • Compliance by Building a Real Enterprise Security Program**
+**⭐ Beginner Friendly • 🏢 Enterprise Focused • 💼 Interview Ready • 🌍 Open Source**
 
-*From Beginner → Intermediate → Job Ready*
+<br>
 
-</p>
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
+
+<br>
+
+![License](https://img.shields.io/github/license/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=flat-square)
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-success?style=flat-square)
+![Hands-on Learning](https://img.shields.io/badge/Hands--On-Learning-blue?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Community-orange?style=flat-square)
+
+<br>
+
+![NIST CSF 2.0](https://img.shields.io/badge/NIST-CSF%202.0-005EA2?style=flat-square)
+![NIST 800-53](https://img.shields.io/badge/NIST-800--53%20Rev.5-005EA2?style=flat-square)
+![ISO 27001](https://img.shields.io/badge/ISO-27001-green?style=flat-square)
+![CIS Controls v8](https://img.shields.io/badge/CIS-Controls%20v8-blue?style=flat-square)
+![Risk Management](https://img.shields.io/badge/Risk-Management-red?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-purple?style=flat-square)
+
+<br>
+
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Microsoft 365](https://img.shields.io/badge/Microsoft-365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)
+
+<br><br>
+
+> **"Don't just learn GRC. Build it. Understand it. Explain it. Showcase it."**
+
+### 📚 From Beginner → Intermediate → Enterprise Ready
+
+⭐ **If this project helps you learn something new, consider giving it a star!**
+
+</div>
 
 ---
+```
 
 ## 🌟 About This Project
 
