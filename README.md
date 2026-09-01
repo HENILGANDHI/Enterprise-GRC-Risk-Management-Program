@@ -191,23 +191,21 @@ The objective is to understand how enterprise security programs are designed, as
 # 🗺️ Learning Roadmap
 
 ```text
-Phase 1  → Understanding the Business
-
-Phase 2  → Governance Foundations
-
-Phase 3  → Asset Management
-
-Phase 4  → Enterprise Risk Assessment
-
-Phase 5  → Security Control Assessment
-
-Phase 6  → Compliance & Audit Readiness
-
-Phase 7  → Vulnerability & Risk Management
-
-Phase 8  → Incident Response Integration
-
-Phase 9  → Executive Reporting & Dashboards
+📖 Learn the Business
+        ↓
+🏢 Understand Governance
+        ↓
+📋 Build the Asset Inventory
+        ↓
+⚠️ Perform Risk Assessments
+        ↓
+🛡️ Assess Security Controls
+        ↓
+📑 Achieve Compliance
+        ↓
+📊 Build Executive Dashboards
+        ↓
+💼 Become Interview Ready
 ```
 
 Each phase builds upon the previous one, creating a complete enterprise GRC program.
