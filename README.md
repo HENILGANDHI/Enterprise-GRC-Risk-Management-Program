@@ -1,4 +1,3 @@
-```
 <div align="center">
 
 # 🚀 Enterprise GRC & Risk Management Program
@@ -48,8 +47,7 @@
 
 </div>
 
-
-```
+---
 
 ## 🌟 About This Project
 
