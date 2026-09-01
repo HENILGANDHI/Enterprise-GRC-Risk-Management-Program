@@ -8,10 +8,10 @@
 
 <br>
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/HENILGANDHI/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/HENILGANDHI/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/HENILGANDHI/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/HENILGANDHI/Enterprise-GRC-Risk-Management-Program?style=for-the-badge)
 
 <br>
 
