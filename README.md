@@ -48,6 +48,19 @@
 </div>
 
 ---
+## 📊 Project Dashboard
+
+| Status | Value |
+|---------|-------|
+| 📚 Learning Level | Beginner → Intermediate |
+| 🏢 Enterprise Simulation | ✅ |
+| 📄 Templates Included | 50+ |
+| 🎯 Resume Ready | ✅ |
+| 💼 Interview Preparation | ✅ |
+| 📊 Power BI Dashboards | Coming Soon |
+| ☁️ Cloud Governance | Azure + AWS |
+| 📋 Compliance Frameworks | NIST, ISO, CIS |
+| 🔄 Project Status | Active Development |
 
 ## 🌟 About This Project
 
