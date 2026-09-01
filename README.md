@@ -15,7 +15,7 @@
 
 <br>
 
-![License](https://img.shields.io/github/license/YOUR_USERNAME/Enterprise-GRC-Risk-Management-Program?style=flat-square)
+![License](https://img.shields.io/github/license/HENILGANDHI/Enterprise-GRC-Risk-Management-Program?style=flat-square)
 ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-success?style=flat-square)
 ![Hands-on Learning](https://img.shields.io/badge/Hands--On-Learning-blue?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Community-orange?style=flat-square)
